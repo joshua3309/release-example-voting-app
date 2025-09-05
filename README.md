@@ -32,7 +32,7 @@ It is composed of several services, each built with a different technology, conn
 | Service         | Guide Link (Editable Placeholder) |
 |-----------------|------------------------------------|
 | 🐍 **Vote App** (Python) | [Vote App Guide](https://github.com/joshua3309/release-example-voting-app/blob/master/vote/README.md) |
-| ⚙️ **Worker** (.NET)     | [Worker Guide](https://github.com/joshua3309/release-example-voting-app/blob/master/README.md)   |
+| ⚙️ **Worker** (.NET)     | [Worker Guide](https://github.com/joshua3309/release-example-voting-app/blob/master/worker/READme.md)   |
 | 🌐 **Result App** (Node.js) | [Result App Guide](https://github.com/joshua3309/release-example-voting-app/blob/master/result/README.md) |
 
 
