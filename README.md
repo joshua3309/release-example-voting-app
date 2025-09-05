@@ -23,7 +23,7 @@ It is composed of several services, each built with a different technology, conn
 |------|------------------------------------------------------------------------------------------|
 | **1. Clone Repository** | `git clone https://github.com/joshua3309/release-example-voting-app.git` <br> `cd release-example-voting-app` |
 | **2. Start Services**   | `docker-compose up --build`                                           |
-| **3. Access Apps**      | - Voting App (Python): [http://localhost:5001](http://localhost:5000) <br> - Result App (Node.js): [http://localhost:5001](http://localhost:5001) <br> - Redis: `localhost:6379` <br> - Postgres DB: `localhost:5432` |
+| **3. Access Apps**      | - Voting App (Python): [http://localhost:5000](http://localhost:5000) <br> - Result App (Node.js): [http://localhost:5001](http://localhost:5001) <br> - Redis: `localhost:6379` <br> - Postgres DB: `localhost:5432` |
 
 ---
 
