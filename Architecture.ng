@@ -1,3 +1,5 @@
+# Voting App Architecture
+
 ```mermaid
 flowchart LR
     voting["voting-app<br/>Python"]
@@ -10,3 +12,4 @@ flowchart LR
     redis --> worker
     worker --> db
     db --> result
+
